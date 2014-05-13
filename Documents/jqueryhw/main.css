@@ -1,0 +1,46 @@
+.header{
+	background:url(http://biancazibettieanahamilton.files.wordpress.com/2013/05/simbolo-hippie.jpg);
+	margin: 0;
+	background-size: cover;
+	margin:0px;
+	height:400px;
+	width: 100%;
+	font-size:150px;
+	text-align: center;
+	color:white;
+
+
+}
+
+.container{
+	background-repeat: no-repeat;
+	margin:center;
+	
+	
+}
+
+.Images1{
+	
+	width:100px;
+	height:100px;
+	padding:10px;
+	display:inline-block;
+	margin:20px;
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-left:180px;
+	color:white;
+	font-size:20px;
+	
+
+}
+
+
+
+
+.Images1.hover {
+	zoom:150%;
+}
+
+
+
